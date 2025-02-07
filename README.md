@@ -1,1 +1,2 @@
 # image-classification
+Just completed an interesting image classification project! I used Python to load images of various categories (butterflies, flowers, cars, Pokemon) using the glob library. The data was shuffled and then used to train a Random Forest classifier, resulting in 78% accuracy. Always learning and building! #python #machinelearning #imageclassification #randomforest #datascience #coding
